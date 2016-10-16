@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1476648119 source:/home/crismotinha/Documentos/TinyComputer/TinyComputer/cpu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mem.h"
+
+1476632311 source:/home/crismotinha/Documentos/TinyComputer/TinyComputer/mem.c
+	<stdio.h>
+	<stdlib.h>
+
+1476648373 source:/home/crismotinha/Documentos/TinyComputer/TinyComputer/main.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	<cpu.h>
+
+1476632342 /home/crismotinha/Documentos/TinyComputer/TinyComputer/mem.h
+	<stdio.h>
+	<stdlib.h>
+
+1476646703 /home/crismotinha/Documentos/TinyComputer/TinyComputer/cpu.h
+	<stdio.h>
+	<stdlib.h>
+	"mem.h"
+
